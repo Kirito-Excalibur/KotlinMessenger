@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685112414137",
+    "project_id": "kotlinmessenger-a3530",
+    "storage_bucket": "kotlinmessenger-a3530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685112414137:android:04b24fef0e179107f1f068",
+        "android_client_info": {
+          "package_name": "com.first.kotlinmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685112414137-kg8pqt69op1jrbg1hr4kia3uuu4iedq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTo_xWNFHzpcllI-fWc-q2kxzf0UabDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685112414137-kg8pqt69op1jrbg1hr4kia3uuu4iedq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
